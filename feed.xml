@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Learning Lab</title>
+<link>https://danieltardy.github.io/Learning-Lab-7qls-1.0.99.1v/</link>
+<atom:link href="https://danieltardy.github.io/Learning-Lab-7qls-1.0.99.1v/feed.xml" rel="self" type="application/rss+xml"/>
+<description>Personalized learning episodes for Daniel Tardy.</description>
+<language>en-us</language>
+<itunes:author>Learning Lab</itunes:author>
+<itunes:summary>Personalized learning episodes for Daniel Tardy.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://danieltardy.github.io/Learning-Lab-7qls-1.0.99.1v/cover.jpg"/>
+<image><url>https://danieltardy.github.io/Learning-Lab-7qls-1.0.99.1v/cover.jpg</url><title>Learning Lab</title><link>https://danieltardy.github.io/Learning-Lab-7qls-1.0.99.1v/</link></image>
+<itunes:category text="Education"/>
+<itunes:type>episodic</itunes:type>
+<itunes:block>yes</itunes:block>
+<!-- ITEMS -->
+<item>
+<title>Why Trust Is Built in Small Moments</title>
+<description>Trust is built less in big speeches than in small daily moments of warmth, like remembering names and admitting mistakes, which research links to lower stress and higher productivity.</description>
+<itunes:summary>Trust is built less in big speeches than in small daily moments of warmth, like remembering names and admitting mistakes, which research links to lower stress and higher productivity.</itunes:summary>
+<enclosure url="https://danieltardy.github.io/Learning-Lab-7qls-1.0.99.1v/episodes/2026-10-31-trust-small-moments.mp3" length="2542280" type="audio/mpeg"/>
+<guid isPermaLink="false">learning-lab-2026-10-31-trust-small-moments</guid>
+<pubDate>Sat, 31 Oct 2026 08:00:00 -0500</pubDate>
+<itunes:duration>00:02:07</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+
+</channel>
+</rss>
