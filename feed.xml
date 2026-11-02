@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
 <title>Learning Lab</title>
 <link>https://danieltardy.github.io/Learning-Lab-7qls-1.0.99.1v/</link>
@@ -17,9 +17,26 @@
 <!-- ITEMS -->
 <item>
 <title>Workout Edition: Leadership Lab (Nov 2)</title>
-<description>Patterns from recent client work (anonymized), three ideas for the practice, AI news executives will ask about, a leadership lesson from this week&#x27;s buyout memos, a neutral Election Day snapshot, and one thing to try this week.</description>
-<itunes:summary>Patterns from recent client work (anonymized), three ideas for the practice, AI news executives will ask about, a leadership lesson from this week&#x27;s buyout memos, a neutral Election Day snapshot, and one thing to try this week.</itunes:summary>
-<enclosure url="https://danieltardy.github.io/Learning-Lab-7qls-1.0.99.1v/episodes/2026-11-02-workout-edition-leadership-lab-nov-2.mp3" length="43104591" type="audio/mpeg"/>
+<description><![CDATA[<p>Patterns from recent client work (anonymized), three ideas for the practice, AI news executives will ask about, a leadership lesson from this week's buyout memos, a neutral Election Day snapshot, and one thing to try this week.</p><p>Chapters:<br/>00:00 Intro and rundown<br/>00:47 Segment 1: Patterns from the client work<br/>14:01 Segment 2: Ideas for the practice<br/>22:24 Segment 3: Tech news for leaders<br/>30:27 Segment 4: Leadership lesson - announcing hard change<br/>34:24 What, Why, Choice: the exercise<br/>34:44 What, Why, Choice: the smell test<br/>35:12 What, Why, Choice: worked example (internal promotion, &#x27;not yet&#x27;)<br/>37:24 Leadership lesson recap<br/>37:43 Segment 5: Midterms snapshot<br/>41:41 Segment 6: One thing to try this week<br/>41:49 Weekly challenge: What, Why, Choice in two sessions<br/>42:32 How to run it: three sentences + smell test<br/>43:37 Full-episode recap</p>]]></description>
+<itunes:summary>Patterns from recent client work (anonymized), three ideas for the practice, AI news executives will ask about, a leadership lesson from this week&#x27;s buyout memos, a neutral Election Day snapshot, and one thing to try this week.
+
+Chapters:
+00:00 Intro and rundown
+00:47 Segment 1: Patterns from the client work
+14:01 Segment 2: Ideas for the practice
+22:24 Segment 3: Tech news for leaders
+30:27 Segment 4: Leadership lesson - announcing hard change
+34:24 What, Why, Choice: the exercise
+34:44 What, Why, Choice: the smell test
+35:12 What, Why, Choice: worked example (internal promotion, &#x27;not yet&#x27;)
+37:24 Leadership lesson recap
+37:43 Segment 5: Midterms snapshot
+41:41 Segment 6: One thing to try this week
+41:49 Weekly challenge: What, Why, Choice in two sessions
+42:32 How to run it: three sentences + smell test
+43:37 Full-episode recap</itunes:summary>
+<enclosure url="https://danieltardy.github.io/Learning-Lab-7qls-1.0.99.1v/episodes/2026-11-02-workout-edition-leadership-lab-nov-2.mp3" length="43150473" type="audio/mpeg"/>
+<podcast:chapters url="https://danieltardy.github.io/Learning-Lab-7qls-1.0.99.1v/episodes/2026-11-02-workout-edition-leadership-lab-nov-2.chapters.json" type="application/json+chapters"/>
 <guid isPermaLink="false">learning-lab-2026-11-02-workout-edition-leadership-lab-nov-2</guid>
 <pubDate>Mon, 02 Nov 2026 08:00:00 -0500</pubDate>
 <itunes:duration>00:44:54</itunes:duration>
